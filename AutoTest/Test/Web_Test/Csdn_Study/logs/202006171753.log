@@ -1,0 +1,14 @@
+2020-06-17 17:53:41,618 - BrowserEngine - INFO - You had select Chrome browser.
+2020-06-17 17:53:41,619 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2020-06-17 17:53:43,893 - BrowserEngine - INFO - Starting Chrome browser.
+2020-06-17 17:54:42,506 - BrowserEngine - INFO - Open url: https://www.baidu.com
+2020-06-17 17:54:43,629 - BrowserEngine - INFO - Maximize the current window.
+2020-06-17 17:54:43,630 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2020-06-17 17:54:43,659 - BasePage - INFO - Had find the element '  ' successful by id via value: kw 
+2020-06-17 17:54:43,852 - BasePage - INFO - Had type ' selenium ' in inputBox
+2020-06-17 17:54:43,878 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='su'] 
+2020-06-17 17:54:44,075 - BasePage - INFO - The element '  ' was clicked.
+2020-06-17 17:54:46,427 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-06-17 17:54:48,535 - BrowserEngine - INFO - You had select Chrome browser.
+2020-06-17 17:54:48,535 - BrowserEngine - INFO - The test server url is: https://www.baidu.com
+2020-06-17 17:54:50,703 - BrowserEngine - INFO - Starting Chrome browser.
